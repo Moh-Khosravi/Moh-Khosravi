@@ -1,4 +1,3 @@
-# Junior Full Stack Web Developer
 - 👋 Hi, I’m @Moh-Khosravi
 - 👀 I’m interested in web & software developement
 - 🌱 I’m currently learning TypeScript

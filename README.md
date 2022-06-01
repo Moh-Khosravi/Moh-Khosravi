@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Font-end and Back-end projects. 
 <h2 align="center">📫 How to reach me</h2> 
 <div align="center">
-<a href="www.linkedin.com/in/mohammad-khosravi-4492a976">
+<a href="https://linkedin.com/in/mohammad-khosravi-4492a976">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 </div>

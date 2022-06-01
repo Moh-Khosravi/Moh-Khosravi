@@ -1,3 +1,5 @@
+<h1>Mohammad Khosravi</h1>
+<p>Junior Full Stack Web Developer</p>
 - 👋 Hi, I’m @Moh-Khosravi
 - 👀 I’m interested in web & software developement
 - 🌱 I’m currently learning TypeScript

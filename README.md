@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Moh-Khosravi
-- 👀 I’m interested in web developement
+- 👀 I’m interested in web & software developement
 - 🌱 I’m currently learning TypeScript
 - 💞️ I’m looking to collaborate on Font-end and Back-end projects. 
 <h2 align="center">📫 How to reach me</h2> 

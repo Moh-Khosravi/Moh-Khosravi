@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Moh-Khosravi
 - 👀 I’m interested in web & software developement
 - 🌱 I’m currently learning TypeScript
-- 💞️ I’m looking to collaborate on Font-end and Back-end projects. 
+- 💞️ I’m looking to collaborate on Front-end and Back-end projects. 
 <h2 align="center">📫 How to reach me</h2> 
 <div align="center">
 <a href="https://linkedin.com/in/mohammad-khosravi-4492a976">
